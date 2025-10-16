@@ -1,6 +1,6 @@
-package com.telusko.jobapp.repo;
+package com.telusko.springbootrest.repo;
 
-import com.telusko.jobapp.model.JobPost;
+import com.telusko.springbootrest.model.JobPost;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package com.telusko.jobapp.model;
+package com.telusko.springbootrest.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

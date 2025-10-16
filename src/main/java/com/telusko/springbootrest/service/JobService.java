@@ -1,7 +1,7 @@
-package com.telusko.jobapp.service;
+package com.telusko.springbootrest.service;
 
-import com.telusko.jobapp.model.JobPost;
-import com.telusko.jobapp.repo.JobRepo;
+import com.telusko.springbootrest.model.JobPost;
+import com.telusko.springbootrest.repo.JobRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
