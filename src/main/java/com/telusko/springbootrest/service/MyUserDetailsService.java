@@ -1,8 +1,8 @@
-package com.telusko.springsecdemo.service;
+package com.telusko.springbootrest.service;
 
-import com.telusko.springsecdemo.dao.UserRepo;
-import com.telusko.springsecdemo.model.User;
-import com.telusko.springsecdemo.model.UserPrincipal;
+import com.telusko.springbootrest.model.User;
+import com.telusko.springbootrest.model.UserPrincipal;
+import com.telusko.springbootrest.repo.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
